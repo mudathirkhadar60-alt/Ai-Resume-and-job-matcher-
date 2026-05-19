@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+venv/
+new_venv/
+.env
+
+# Django
+db.sqlite3
+media/
